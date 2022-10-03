@@ -7,6 +7,9 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <!-- TODO (03) Add a “fontFamily” attribute to apply your downloadable font to the entire app. -->
+
+        <item name="fontFamily">@font/aguafina_script</item>
+        <item name="android:fontFamily">@font/aguafina_script</item>
     </style>
 
 </resources>
